@@ -1,0 +1,13 @@
+.EightBall-container {
+    height: 200px;
+    width: 200px;
+    /* background-color: #bbb; */
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.EightBall-phrase {
+    text-align: center;
+    line-height: 100px;  
+    color: white;
+}
